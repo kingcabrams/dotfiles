@@ -17,6 +17,18 @@ set shiftwidth=4
 set expandtab
 " Enable mouse usage (all modes)
 set mouse=a
+" Show (partial) command in status
+set showcmd
+" Show matching brackets
+set showmatch
+" Do case insensitive matching
+set ignorecase
+" Do smart case matching
+set smartcase
+" Incremental search
+set incsearch
+"Automattically save before command
+set autowrite
 
 filetype plugin indent on
 set cursorline
