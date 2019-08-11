@@ -11,7 +11,6 @@ alias st='git status'
 
 # Standard Zsh startup
 export ZSH="/home/cabrams/.oh-my-zsh"
-plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # Local config
