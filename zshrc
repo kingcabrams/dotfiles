@@ -7,7 +7,7 @@ ZSH_THEME="takashiyoshida"
 # Aliases
 alias zrc='vim ~/.zshrc'
 alias zrcl='vim ~/.zshrc.local'
-alias vrc='vim ~/.vimrc'
+alias vrc='vim ~/.config/nvim/init.vim'
 alias vrcl='vim ~/vimrc.local'
 alias py3='python3'
 alias st='git status'
