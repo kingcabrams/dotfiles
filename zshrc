@@ -1,3 +1,6 @@
+# Plugins (~/.oh-my-zsh/custom/plugins)
+plugins=(git ubuntu pip python)
+
 # Zsh Theme
 ZSH_THEME="takashiyoshida"
 

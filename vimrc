@@ -29,18 +29,8 @@ set smartcase
 set incsearch
 "Automattically save before command
 set autowrite
-
-filetype plugin indent on
-set cursorline
-syntax on
-set number
-set relativenumber
+set number relativenumber
 colorscheme predawn
-set softtabstop=4
-set shiftround
-set nobackup
-set nowritebackup
-set noswapfile
 
 " set Ctrl-n :nohl
 noremap <C-n> :nohl<CR>
