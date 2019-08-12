@@ -29,6 +29,10 @@ set smartcase
 set incsearch
 "Automattically save before command
 set autowrite
+" Provides tab-completion into subfolders
+set path+=**
+" Displays all matching files on tab completion
+set wildmenu
 set number relativenumber
 colorscheme predawn
 

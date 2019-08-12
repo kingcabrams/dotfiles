@@ -1,0 +1,15 @@
+~ switches casing of a letter
+
+:e opens a new file to edit
+
+:split :vsplit
+
+Ctrl-w + (h|j|k|l)? switch between splits + (+|-|=)? resizes splits 
+
+:x write and quit
+
+:ls - lists buffers
+
+:b # - switches buffer
+
+:(vertical)? sb # - splits with buffer
